@@ -12,6 +12,7 @@
     {"name": "Figma", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/Figma.png"},
     {"name": "Instagram", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/Instagram.png"},
     {"name": "Netflix", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/Netflix.png"},
+    {"name": "PayPal", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/PayPal.png"},
     {"name": "Pinterest", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/Pinterest.png"},
     {"name": "Spotify", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/Spotify.png"},
     {"name": "Telegram", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/app/Telegram.png"},
@@ -34,4 +35,4 @@
     {"name": "Global", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/function/Global.png"},
     {"name": "Mainland", "url": "https://raw.githubusercontent.com/alsoeoe/surge_peiz/main/icon/function/Mainland.png"}
   ]
-}
+} 
